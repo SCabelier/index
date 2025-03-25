@@ -1,1 +1,3 @@
 # index
+
+/** Silence is golden */
